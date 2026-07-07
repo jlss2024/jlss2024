@@ -1,10 +1,11 @@
 # Olá! Eu sou José Luiz Siqueira 👋
+### Legal AI • Cognitive Architecture • AI Engineering • Neuroscience of Learning
 
 ## Sobre mim
 
-Sou Servidor Público Federal, bacharel em Direito e pesquisador apaixonado por tecnologia, Inteligência Artificial, Neurociências da Aprendizagem e Engenharia de Software.
+Sou Servidor Público Federal, bacharel em Direito e pesquisador com interesse em Inteligência Artificial, Engenharia de IA, Neurociências da Aprendizagem e Arquitetura Cognitiva.
 
-Atualmente estou desenvolvendo projetos que unem Direito, IA, Automação e Ciência Cognitiva.
+Estou construindo projetos que unem Direito, IA, automação, engenharia de software e ciência cognitiva para desenvolver soluções voltadas ao aprendizado e ao ecossistema jurídico.
 
 ## Áreas de Interesse
 
@@ -17,7 +18,7 @@ Atualmente estou desenvolvendo projetos que unem Direito, IA, Automação e Ciê
 - ☁️ Computação em Nuvem
 - 📚 Arquitetura Cognitiva
 
-## Atualmente estudando
+## Atualmente aprendendo
 
 - Python
 - Linguagem C
@@ -25,13 +26,38 @@ Atualmente estou desenvolvendo projetos que unem Direito, IA, Automação e Ciê
 - AI Engineering
 - Machine Learning
 - Large Language Models (LLMs)
+- 
+## Próximos Projetos
 
-## Objetivos
+- 🧠 Cognitive Architecture Lab
+- ⚖️ Legal AI Toolkit
+- 🤖 AI Engineering Studies
+- 🐍 Python Projects
+- 📚 Knowledge Systems
 
-Construir soluções que utilizem Inteligência Artificial para auxiliar profissionais do Direito, pesquisadores e estudantes.
+## Objetivos para 2026
 
-## Projetos em desenvolvimento
+- Dominar Git e GitHub
+- Desenvolver projetos em Python
+- Construir aplicações com Inteligência Artificial
+- Publicar projetos open source
+- Criar o projeto Legal AI Toolkit
+- Desenvolver o projeto Cognitive Architecture Lab
+- Publicar artigos técnicos e científicos
+- Contribuir para a comunidade de IA e Legal Tech
 
-🚧 Em breve novos projetos serão publicados aqui.
+## Vamos colaborar?
 
-Obrigado por visitar meu perfil!
+Estou sempre aberto a colaborar em projetos relacionados à Inteligência Artificial, Legal Tech, Neurociências da Aprendizagem e Engenharia de Software.
+
+Obrigado pela visita!
+
+## Em construção...
+
+Este perfil documenta minha jornada de aprendizagem e desenvolvimento em Inteligência Artificial, Arquitetura Cognitiva, Neurociências e Tecnologia Jurídica.
+
+Cada repositório representa um passo nessa construção.
+
+## Let's Connect
+
+Feel free to explore my repositories and follow my journey in Artificial Intelligence, Legal Tech and Cognitive Architecture.
